@@ -201,5 +201,7 @@ alki.dailyStoreTotals();
 alki.hourlySum();
 alki.render();
 
+
+
 // Gabriel - How do I properly build a table, down below is my attempt
 
